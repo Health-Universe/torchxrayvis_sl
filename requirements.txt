@@ -1,5 +1,5 @@
 streamlit
 torchxrayvision
-skimage
+scikit-image
 torch
 torchvision
